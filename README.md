@@ -9,7 +9,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,eclipse,wordpress,django,powershell,sqlite,mysql,postgresql,git,github,vscode,discord,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,eclipse,wordpress,django,powershell,linux,api,sqlite,mysql,postgresql,git,github,vscode,discord,aws" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
