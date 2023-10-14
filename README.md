@@ -9,15 +9,11 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,sqlite,mysql,github,vscode,discord,php,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,sqlite,mysql,postgresql,github,vscode,discord,aws" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
   
-# NOW TRAINING
-
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
-
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
