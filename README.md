@@ -19,9 +19,9 @@
 <img src="https://skillicons.dev/icons?i=php,python,java,sqlite,mysql,postgresql" /> <br /><br />
 
 
-# My Skill (Frontend)
+# Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,eclipse,wordpress,django,powershell,linux,sqlite,mysql,postgresql,git,github,vscode,discord,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=vscode,wordpress,eclipse,linux,powershell,git,github" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
