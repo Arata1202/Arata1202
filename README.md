@@ -3,7 +3,7 @@
 ### Feel free to contact me anytime!👍
 #
 
-<p style="width:100%;">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arata1202&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arata1202&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 【 My Skills 】
