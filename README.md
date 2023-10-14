@@ -1,4 +1,4 @@
-## Hello GitHub !
+# Arata Takano
 ### Just 20 years old 
 ### Feel free to contact me anytime!👍
 #
