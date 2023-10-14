@@ -6,8 +6,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arata1202&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+# My  Skill
 
-# My Skill (Programming Languages, Frameworks and Tools)
+
+# Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,eclipse,wordpress,django,powershell,linux,sqlite,mysql,postgresql,git,github,vscode,discord,aws" /> <br /><br />
+
+
+# My Skill (Frontend)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,eclipse,wordpress,django,powershell,linux,sqlite,mysql,postgresql,git,github,vscode,discord,aws" /> <br /><br />
+
+
+# My Skill (Frontend)
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,eclipse,wordpress,django,powershell,linux,sqlite,mysql,postgresql,git,github,vscode,discord,aws" /> <br /><br />
 
