@@ -11,7 +11,7 @@
 
 # Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,django," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,django,,jquery" /> <br /><br />
 
 
 # Backend
