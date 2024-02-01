@@ -11,17 +11,17 @@
 
 # Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,django,jquery" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,django,jquery,vue" /> <br /><br />
 
 
 # Backend
 
-<img src="https://skillicons.dev/icons?i=php,python,java,sqlite,mysql,postgresql,aws,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=php,python,java,sqlite,mysql,postgresql,aws,nginx,laravel" /> <br /><br />
 
 
 # Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,wordpress,eclipse,linux,powershell,git,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=vscode,wordpress,eclipse,linux,powershell,git,github,docker" /> <br /><br />
   
 
 
