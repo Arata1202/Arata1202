@@ -16,7 +16,7 @@
 
 # Backend
 
-<img src="https://skillicons.dev/icons?i=php,python,java,sqlite,mysql,postgresql,aws,nginx,laravel" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=php,python,sqlite,mysql,postgresql,aws,nginx,laravel" /> <br /><br />
 
 
 # Tools
