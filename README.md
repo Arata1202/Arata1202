@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arata1202&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://skillicons.dev/icons?i=php,python,sqlite,mysql,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=php,python,mysql,aws" /> <br /><br />
 
 
  # Tools
