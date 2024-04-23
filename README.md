@@ -9,3 +9,4 @@
 <a href="https://git.io/streak-stats">
   <img height="205px" src="https://github-readme-streak-stats.herokuapp.com?user=Arata1202&theme=tokyonight&locale=ja" alt="GitHub Streak" />
 </a>
+![](https://komarev.com/ghpvc/?username=Arata1202&color=blue)
