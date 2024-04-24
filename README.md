@@ -10,6 +10,6 @@
   <img height="205px" src="https://github-readme-streak-stats.herokuapp.com?user=Arata1202&theme=tokyonight&locale=ja" alt="GitHub Streak" />
 </a>
 <br>
-<a href="https://komarev.com/ghpvc/?username=Arata1202&color=blue">
+<!-- <a href="https://komarev.com/ghpvc/?username=Arata1202&color=blue">
   <img src="https://komarev.com/ghpvc/?username=Arata1202&color=blue" alt="Profile Views" />
-</a>
+</a> -->
