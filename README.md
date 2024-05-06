@@ -1,7 +1,5 @@
 # Arata Takano
-### Just 20 years old 
-### Feel free to contact me anytime!👍
-#
+### Next.js × MicroCMS × Netlify で爆速ブログを作って収益化させるのが目標！
 
 <a href="https://github.com/tocoteron">
   <img align="left" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arata1202&layout=compact&langs_count=10&theme=tokyonight" />
