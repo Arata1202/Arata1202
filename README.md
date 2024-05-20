@@ -1,5 +1,5 @@
 # Arata Takano
-## Next.js × MicroCMS × Netlify で爆速ブログを作って収益化させるのが目標！！
+## Next.js × MicroCMS × Vercel で爆速ブログを作って収益化させるのが目標！！
 <br>
 
 <a href="https://github.com/tocoteron">
