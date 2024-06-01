@@ -2,7 +2,6 @@
 ## Next.js × MicroCMS × Vercel で爆速ブログを作って収益化させるのが目標！！
 <a href="https://realunivlog.com">https://realunivlog.com</a>
 <br>
-<br>
 
 <a href="https://github.com/tocoteron">
   <img align="left" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arata1202&layout=compact&langs_count=10&theme=tokyonight" />
