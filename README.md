@@ -1,6 +1,6 @@
 # Arata Takano
 ## Next.js × MicroCMS × Vercel で爆速ブログを作って収益化させるのが目標！！
-## ↑ 6/17にて達成！
+### ↑ 6/17にて達成！
 - ### https://realunivlog.com
 <br>
 
