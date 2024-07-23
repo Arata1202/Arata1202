@@ -1,6 +1,8 @@
 # Arata Takano
 ## Next.js × MicroCMS × Vercel で爆速ブログを作って収益化させるのが目標！！
 ### ↑ 6/17にて達成！
+## Flutterでアプリ作りたい
+### ↑ 次の目標
 - ### https://realunivlog.com
 <br>
 
