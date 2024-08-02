@@ -4,6 +4,7 @@
 ## Flutterでアプリ作りたい
 ### ↑ 8/2にて達成！iOS版リリースしました
 - ### https://realunivlog.com
+- ### https://apps.apple.com/jp/app/%E3%83%AA%E3%82%A2%E3%83%AB%E5%A4%A7%E5%AD%A6%E7%94%9F-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6590619103
 <br>
 
 <a href="https://github.com/tocoteron">
