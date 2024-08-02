@@ -2,8 +2,9 @@
 ## Next.js × MicroCMS × Vercel で爆速ブログを作って収益化させるのが目標！！
 ### ↑ 6/17にて達成！
 ## Flutterでアプリ作りたい
-### ↑ 次の目標
+### ↑ 8/2にて達成！iOS版リリースしました
 - ### https://realunivlog.com
+- ### https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=6590619103
 <br>
 
 <a href="https://github.com/tocoteron">
