@@ -2,13 +2,13 @@
 <br>
 ![pic](https://github.com/user-attachments/assets/05d785a3-e929-4312-bfd5-568c8254ae7f)
 
-WEB
+## WEB - NextBlogApp
 - https://realunivlog.com
 
-iOS
+## iOS - FlutterBlogApp
 - https://apps.apple.com/jp/app/%E3%83%AA%E3%82%A2%E3%83%AB%E5%A4%A7%E5%AD%A6%E7%94%9F-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6590619103
 
-Android
+## Android - FlutterBlogApp
 - クローズドテスト中。リリース予定日：9月半ば
 
 
