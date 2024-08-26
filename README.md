@@ -1,3 +1,6 @@
+![2](https://github.com/user-attachments/assets/77717cd3-3b5a-48c9-9445-de9a88b070d2)
+
+
 # Arata Takano
 ## Next.js × MicroCMS × Vercel で爆速ブログを作って収益化させるのが目標！！
 ### ↑ 6/17にて達成！
