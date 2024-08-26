@@ -1,7 +1,17 @@
 ![2](https://github.com/user-attachments/assets/77717cd3-3b5a-48c9-9445-de9a88b070d2)
+![pic](https://github.com/user-attachments/assets/05d785a3-e929-4312-bfd5-568c8254ae7f)
+
+WEB
+- https://realunivlog.com
+
+iOS
+- https://apps.apple.com/jp/app/%E3%83%AA%E3%82%A2%E3%83%AB%E5%A4%A7%E5%AD%A6%E7%94%9F-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6590619103
+
+Android
+- クローズドテスト中。リリース予定日：9月半ば
 
 
-# Arata Takano
+<!-- # Arata Takano
 ## Next.js × MicroCMS × Vercel で爆速ブログを作って収益化させるのが目標！！
 ### ↑ 6/17にて達成！
 ## Flutterでアプリ作りたい
@@ -16,7 +26,7 @@
 <a href="https://git.io/streak-stats">
   <img height="205px" src="https://github-readme-streak-stats.herokuapp.com?user=Arata1202&theme=tokyonight&locale=ja" alt="GitHub Streak" />
 </a>
-<br>
+<br> -->
 <!-- <a href="https://komarev.com/ghpvc/?username=Arata1202&color=blue">
   <img src="https://komarev.com/ghpvc/?username=Arata1202&color=blue" alt="Profile Views" />
 </a> -->
