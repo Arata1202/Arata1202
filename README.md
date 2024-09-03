@@ -1,6 +1,6 @@
 ![2](https://github.com/user-attachments/assets/208cac00-e72f-4b4c-bca4-8fe0ad152324)
 <br>
-![pic](https://github.com/user-attachments/assets/05d785a3-e929-4312-bfd5-568c8254ae7f)
+![pic（大）](https://github.com/user-attachments/assets/9a3b2ee8-2b25-4632-887f-57fc6a526ed0)
 
 ## WEB - NextBlogApp
 - https://realunivlog.com
