@@ -11,6 +11,12 @@
 ## Android - FlutterBlogApp
 - クローズドテスト中。リリース予定日：9月半ば
 
+<a href="https://github.com/tocoteron">
+  <img align="left" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arata1202&layout=compact&langs_count=10&theme=tokyonight" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img height="205px" src="https://github-readme-streak-stats.herokuapp.com?user=Arata1202&theme=tokyonight&locale=ja" alt="GitHub Streak" />
+</a>
 
 <!-- # Arata Takano
 ## Next.js × MicroCMS × Vercel で爆速ブログを作って収益化させるのが目標！！
