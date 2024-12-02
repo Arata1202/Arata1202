@@ -1,22 +1,3 @@
-![2](https://github.com/user-attachments/assets/208cac00-e72f-4b4c-bca4-8fe0ad152324)
-<br>
-![pic（大）](https://github.com/user-attachments/assets/d274a225-1726-47d9-b8a4-bc1c3d8bc714)
-
-## WEB - NextBlogApp
-<ul>
-  <li><a href="https://realunivlog.com">リアル大学生</li>
-</ul>
-
-## iOS - FlutterBlogApp
-<ul>
-  <li><a href="https://apps.apple.com/jp/app/%E3%83%AA%E3%82%A2%E3%83%AB%E5%A4%A7%E5%AD%A6%E7%94%9F-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6590619103">App Store</li>
-</ul>
-
-## Android - FlutterBlogApp
-<ul>
-  <li><a href="https://play.google.com/store/apps/details?id=com.realunivlog.flutterblogapp">Play Store</li>
-</ul>
-
 <a href="https://github.com/tocoteron">
   <img align="left" height="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arata1202&layout=compact&langs_count=10&theme=tokyonight" />
 </a>
