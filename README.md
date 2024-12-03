@@ -6,6 +6,8 @@
   <img height="205px" src="https://github-readme-streak-stats.herokuapp.com?user=Arata1202&theme=tokyonight&locale=ja" alt="GitHub Streak" />
 </a>
 
+<img alt="github stats" height="205px" src="https://github-readme-stats.vercel.app/api?username=Arata1202&theme=tokyonight&show_icons=ture" />
+
 <h2>Product</h2>
 <h3>リアル大学生シリーズ</h3>
 <ul>
