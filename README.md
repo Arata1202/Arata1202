@@ -9,11 +9,21 @@
 <img alt="github stats" height="205px" src="https://github-readme-stats.vercel.app/api?username=Arata1202&theme=tokyonight&show_icons=ture" />
 
 <h2>Product</h2>
-<h3>リアル大学生シリーズ</h3>
+<h3>ブログ：リアル大学生</h3>
 <ul>
   <li><a href="https://realunivlog.com">Web</a></li>
   <li><a href="https://apps.apple.com/jp/app/%E3%83%AA%E3%82%A2%E3%83%AB%E5%A4%A7%E5%AD%A6%E7%94%9F-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6590619103">App Store</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.realunivlog.flutterblogapp">Google Play</a></li>
+</ul>
+
+<h3>就活管理サービス：リクビジョン</h3>
+<ul>
+  <li><a href="https://rikuvision.realunivlog.com">Web</a></li>
+</ul>
+
+<h3>ホームページ：鈴木ゼミナール</h3>
+<ul>
+  <li><a href="https://suzuki-seminar.com">Web</a></li>
 </ul>
 
 
