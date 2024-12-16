@@ -6,7 +6,7 @@
   <img height="205px" src="https://github-readme-streak-stats.herokuapp.com?user=Arata1202&theme=tokyonight&locale=ja" alt="GitHub Streak" />
 </a>
 
-<img alt="github stats" height="205px" src="https://github-readme-stats.vercel.app/api?username=Arata1202&theme=tokyonight&show_icons=ture" />
+<!-- <img alt="github stats" height="205px" src="https://github-readme-stats.vercel.app/api?username=Arata1202&theme=tokyonight&show_icons=ture" /> -->
 
 <h2>Product</h2>
 <h3>ブログ：リアル大学生</h3>
@@ -26,7 +26,19 @@
   <li><a href="https://suzuki-seminar.com">Web</a></li>
 </ul>
 
+<h2>Skills</h3>
 
+<h3>Language</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart" />
+
+<h3>Framework</h3>
+<img src="https://skillicons.dev/icons?i=next,vue,laravel,flutter,tailwindcss" />
+
+<h3>Infrastructure</h3>
+<img src="https://skillicons.dev/icons?i=vercel,aws,docker,firebase,mysql,postgres,supabase,githubactions," />
+
+<h3>Tool</h3>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 
 <!-- # Arata Takano
 ## Next.js × MicroCMS × Vercel で爆速ブログを作って収益化させるのが目標！！
