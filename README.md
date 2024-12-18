@@ -28,17 +28,14 @@
 
 <h2>Skills</h3>
 
-<h3>Language</h3>
+<h3>Languages</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart" />
 
-<h3>Framework</h3>
+<h3>Frameworks</h3>
 <img src="https://skillicons.dev/icons?i=next,vue,laravel,flutter,tailwindcss" />
 
-<h3>Infrastructure</h3>
-<img src="https://skillicons.dev/icons?i=vercel,aws,docker,firebase,mysql,postgres,supabase,githubactions," />
-
-<h3>Tool</h3>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+<h3>Infrastructures</h3>
+<img src="https://skillicons.dev/icons?i=vercel,aws,docker,nginx,firebase,mysql,postgres,supabase,githubactions," />
 
 <!-- # Arata Takano
 ## Next.js × MicroCMS × Vercel で爆速ブログを作って収益化させるのが目標！！
