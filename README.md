@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,prisma" />
 
 <h3>Infrastructures</h3>
-<img src="https://skillicons.dev/icons?i=terraform,aws,gcp,docker,nginx,firebase,githubactions,vercel,cloudflare" />
+<img src="https://skillicons.dev/icons?i=terraform,aws,gcp,docker,nginx,firebase,githubactions,vercel,cloudflare,netlify" />
 
 <h3>Tools</h3>
 <img src="https://skillicons.dev/icons?i=vscode,discord,notion,figma,vim,wordpress,apple,androidstudio,git,github" />
