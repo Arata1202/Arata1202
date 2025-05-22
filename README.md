@@ -26,4 +26,4 @@
 <img src="https://skillicons.dev/icons?i=vscode,discord,notion,figma,vim,wordpress,apple,androidstudio,git,github" />
 
 <h3>Others</h3>
-<img src="https://skillicons.dev/icons?i=linux,raspberrypi,debian,sentry,vite" />
+<img src="https://skillicons.dev/icons?i=linux,raspberrypi,debian,ubuntu,sentry,vite" />
