@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=react,next,vue,vuetify,laravel,flutter,tailwindcss" />
 
 <h3>Database</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,prisma" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 
 <h3>Infrastructures</h3>
 <img src="https://skillicons.dev/icons?i=terraform,aws,gcp,docker,nginx,firebase,githubactions,vercel,cloudflare,netlify" />
