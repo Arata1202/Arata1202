@@ -38,7 +38,7 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
   Terraform and Docker automation for deploying and operating WorkAdventure on AWS and Azure with OIDC authentication.
 
 - 🎨 **[ExcalidrawCollaboration](https://github.com/Arata1202/ExcalidrawCollaboration)**<br>
-  A self-hosted collaborative whiteboard environment with Terraform, Docker, NGINX, and OIDC authentication.
+  A self-hosted collaborative whiteboard environment with Terraform, Docker, NGINX, OIDC authentication, and an integrated MCP server.
 
 - 🎮 **[MinecraftGeyserServer](https://github.com/Arata1202/MinecraftGeyserServer)**<br>
   AWS infrastructure for a Java and Bedrock cross-play Minecraft server, including Docker-based operation, BlueMap, and automatic shutdown.
@@ -46,8 +46,6 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 ## Open Source Contributions
 
 ### WorkAdventure
-
-Contributing improvements across self-hosting, authentication, testing, and Japanese localization.
 
 - [Normalize OIDC callback URLs](https://github.com/workadventure/workadventure/pull/6387)
 - [Add missing Matrix domain configuration](https://github.com/workadventure/workadventure/pull/6425)
