@@ -21,15 +21,15 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 
 ### Web
 
-- ✍️ **[NextBlogApp](https://github.com/Arata1202/NextBlogApp)** · **[Live Site](https://realunivlog.com/)**
+- ✍️ **[NextBlogApp](https://github.com/Arata1202/NextBlogApp)** · **[Live Site](https://realunivlog.com/)**<br>
   A long-running personal blog with Go APIs, automated content backups, link checking, push notifications, and CI/CD.
 
 ### Apps
 
-- 📱 **[PocketVideo](https://github.com/Arata1202/PocketVideo)** · **[App Store](https://apps.apple.com/jp/app/pocket-video/id6783846586)**
+- 📱 **[PocketVideo](https://github.com/Arata1202/PocketVideo)** · **[App Store](https://apps.apple.com/jp/app/pocket-video/id6783846586)**<br>
   A native iOS video player for quickly opening and playing videos from the Files app.
 
-- 📲 **[FlutterBlogApp](https://github.com/Arata1202/FlutterBlogApp)** · **[App Store](https://apps.apple.com/jp/app/%E3%83%AA%E3%82%A2%E3%83%AB%E5%A4%A7%E5%AD%A6%E7%94%9F-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6590619103)**
+- 📲 **[FlutterBlogApp](https://github.com/Arata1202/FlutterBlogApp)** · **[App Store](https://apps.apple.com/jp/app/%E3%83%AA%E3%82%A2%E3%83%AB%E5%A4%A7%E5%AD%A6%E7%94%9F-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6590619103)**<br>
   A Flutter mobile client for NextBlogApp, available on the App Store and previously released on Google Play.
 
 ### Infrastructure & Self-Hosting
@@ -37,10 +37,10 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 - 🗺️ **[WorkAdventure](https://github.com/Arata1202/WorkAdventure)** · **[Case Study](https://zenn.dev/flierinc/articles/cc3d3450c6ad41)**<br>
   Terraform and Docker automation for deploying and operating WorkAdventure on AWS and Azure with OIDC authentication.
 
-- 🎨 **[ExcalidrawCollaboration](https://github.com/Arata1202/ExcalidrawCollaboration)**
+- 🎨 **[ExcalidrawCollaboration](https://github.com/Arata1202/ExcalidrawCollaboration)**<br>
   A self-hosted collaborative whiteboard environment with Terraform, Docker, NGINX, and OIDC authentication.
 
-- 🎮 **[MinecraftGeyserServer](https://github.com/Arata1202/MinecraftGeyserServer)**
+- 🎮 **[MinecraftGeyserServer](https://github.com/Arata1202/MinecraftGeyserServer)**<br>
   AWS infrastructure for a Java and Bedrock cross-play Minecraft server, including Docker-based operation, BlueMap, and automatic shutdown.
 
 ## Open Source Contributions
@@ -58,10 +58,6 @@ Contributing improvements across self-hosting, authentication, testing, and Japa
 ### React Email
 
 - [Document `data-skip-in-text` behavior](https://github.com/resend/react-email/pull/3659)
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=Arata1202&hide_border=true)
 
 ## Connect
 
