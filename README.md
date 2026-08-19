@@ -32,6 +32,11 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 - 📲 **[FlutterBlogApp](https://github.com/Arata1202/FlutterBlogApp)** · **[App Store](https://apps.apple.com/jp/app/%E3%83%AA%E3%82%A2%E3%83%AB%E5%A4%A7%E5%AD%A6%E7%94%9F-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6590619103)**<br>
   A Flutter mobile client for NextBlogApp, available on the App Store and previously released on Google Play.
 
+### Developer Tools
+
+- 🛠️ **[ascdir](https://github.com/Arata1202/ascdir)**<br>
+  A Go CLI for managing App Store Connect metadata and product-page assets as reviewable files, available on macOS, Linux, and Windows through Homebrew and aqua.
+
 ### Infrastructure & Self-Hosting
 
 - 🗺️ **[WorkAdventure](https://github.com/Arata1202/WorkAdventure)** · **[Case Study](https://zenn.dev/flierinc/articles/cc3d3450c6ad41)**<br>
