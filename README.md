@@ -52,6 +52,9 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 
 ### WorkAdventure
 
+- [Remove obsolete Docker Compose version declarations](https://github.com/workadventure/workadventure/pull/6451)
+- [Fix the Matrix admin user registration example](https://github.com/workadventure/workadventure/pull/6450)
+- [Normalize the Matrix API URI](https://github.com/workadventure/workadventure/pull/6449)
 - [Normalize OIDC callback URLs](https://github.com/workadventure/workadventure/pull/6387)
 - [Add missing Matrix domain configuration](https://github.com/workadventure/workadventure/pull/6425)
 - [Use the canonical OpenID Woka name policy](https://github.com/workadventure/workadventure/pull/6422)
