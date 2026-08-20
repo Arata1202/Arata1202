@@ -35,7 +35,7 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 ### Developer Tools
 
 - 🛠️ **[ascdir](https://github.com/Arata1202/ascdir)**<br>
-  A Go CLI for managing App Store Connect metadata and product-page assets as reviewable files, available on macOS, Linux, and Windows through Homebrew and aqua.
+  A Go CLI for managing App Store Connect metadata, TestFlight distribution, and App Store releases through reviewable files and safe dry-run workflows, available on macOS, Linux, and Windows through Homebrew and aqua.
 
 ### Infrastructure & Self-Hosting
 
