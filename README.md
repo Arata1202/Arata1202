@@ -50,7 +50,7 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 
 ## Open Source Contributions
 
-### WorkAdventure
+### workadventure
 
 - [Remove obsolete Docker Compose version declarations](https://github.com/workadventure/workadventure/pull/6451)
 - [Fix the Matrix admin user registration example](https://github.com/workadventure/workadventure/pull/6450)
@@ -61,7 +61,7 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 - [Avoid unset map-storage authentication warnings](https://github.com/workadventure/workadventure/pull/6426)
 - [Improve the Japanese “Do Not Disturb” translation](https://github.com/workadventure/workadventure/pull/5942)
 
-### React Email
+### react-email
 
 - [Document `data-skip-in-text` behavior](https://github.com/resend/react-email/pull/3659)
 
