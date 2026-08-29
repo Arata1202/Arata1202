@@ -17,7 +17,7 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 
-## Projects
+## Maintained Projects
 
 ### Web
 
@@ -34,7 +34,7 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 
 ### Developer Tools
 
-- 🛠️ **[ascdir](https://github.com/Arata1202/ascdir)**<br>
+- 🛠️ **[ascdir](https://github.com/Arata1202/ascdir)** · **[Live Site](https://ascdir.realunivlog.com/)**<br>
   A Go CLI for managing App Store Connect metadata, TestFlight distribution, and App Store releases through reviewable files and safe dry-run workflows, available on macOS, Linux, and Windows through Homebrew and aqua.
 
 ### Infrastructure & Self-Hosting
@@ -42,13 +42,10 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 - 🗺️ **[WorkAdventure](https://github.com/Arata1202/WorkAdventure)** · **[Case Study](https://zenn.dev/flierinc/articles/cc3d3450c6ad41)**<br>
   Terraform and Docker automation for deploying and operating WorkAdventure on AWS and Azure with OIDC authentication.
 
-- 🎨 **[ExcalidrawCollaboration](https://github.com/Arata1202/ExcalidrawCollaboration)**<br>
-  A self-hosted collaborative whiteboard environment with Terraform, Docker, NGINX, OIDC authentication, and an integrated MCP server.
-
 - 🎮 **[MinecraftGeyserServer](https://github.com/Arata1202/MinecraftGeyserServer)**<br>
   AWS infrastructure for a Java and Bedrock cross-play Minecraft server, including Docker-based operation, BlueMap, and automatic shutdown.
 
-## Open Source Contributions
+## OSS Contributions
 
 ### workadventure
 
