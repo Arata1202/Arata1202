@@ -49,22 +49,22 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 
 ### workadventure
 
-- [Remove obsolete Docker Compose version declarations](https://github.com/workadventure/workadventure/pull/6451)
-- [Fix the Matrix admin user registration example](https://github.com/workadventure/workadventure/pull/6450)
-- [Normalize the Matrix API URI](https://github.com/workadventure/workadventure/pull/6449)
-- [Normalize OIDC callback URLs](https://github.com/workadventure/workadventure/pull/6387)
-- [Add missing Matrix domain configuration](https://github.com/workadventure/workadventure/pull/6425)
-- [Use the canonical OpenID Woka name policy](https://github.com/workadventure/workadventure/pull/6422)
-- [Avoid unset map-storage authentication warnings](https://github.com/workadventure/workadventure/pull/6426)
-- [Improve the Japanese “Do Not Disturb” translation](https://github.com/workadventure/workadventure/pull/5942)
+- [chore(compose): remove obsolete version declarations](https://github.com/workadventure/workadventure/pull/6451)
+- [docs(matrix): fix admin user registration example](https://github.com/workadventure/workadventure/pull/6450)
+- [fix(matrix): normalize Matrix API URI](https://github.com/workadventure/workadventure/pull/6449)
+- [fix(oidc): normalize callback URLs](https://github.com/workadventure/workadventure/pull/6387)
+- [fix(self-hosting): add missing Matrix domain configuration](https://github.com/workadventure/workadventure/pull/6425)
+- [fix(self-hosting): use OPENID_WOKA_NAME_POLICY in Docker setup](https://github.com/workadventure/workadventure/pull/6422)
+- [fix(self-hosting): avoid unset map storage auth warning](https://github.com/workadventure/workadventure/pull/6426)
+- [fix(i18n): improve Japanese translation for DO_NOT_DISTURB status label](https://github.com/workadventure/workadventure/pull/5942)
 
 ### react-email
 
-- [Document `data-skip-in-text` behavior](https://github.com/resend/react-email/pull/3659)
+- [chore(render): document data-skip-in-text](https://github.com/resend/react-email/pull/3659)
 
 ### airi
 
-- [Preserve Live2D lip sync during MAGIC motion](https://github.com/moeru-ai/airi/pull/2481)
+- [fix(stage-ui-live2d): preserve lip sync during MAGIC motion](https://github.com/moeru-ai/airi/pull/2481)
 
 ## Connect
 
