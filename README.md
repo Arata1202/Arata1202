@@ -62,7 +62,7 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 
 - [Document `data-skip-in-text` behavior](https://github.com/resend/react-email/pull/3659)
 
-### AIRI
+### airi
 
 - [Preserve Live2D lip sync during MAGIC motion](https://github.com/moeru-ai/airi/pull/2481)
 
