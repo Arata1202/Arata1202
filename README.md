@@ -66,6 +66,10 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 
 - [fix(stage-ui-live2d): preserve lip sync during MAGIC motion](https://github.com/moeru-ai/airi/pull/2481)
 
+### voicevox_engine
+
+- [feat: トーク系APIの数値入力に値域制約を追加する](https://github.com/VOICEVOX/voicevox_engine/pull/1883)
+
 ## Connect
 
 [![Blog](https://img.shields.io/badge/-realunivlog.com-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://realunivlog.com/)
