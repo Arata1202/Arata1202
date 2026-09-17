@@ -69,8 +69,9 @@ Selected pull requests merged into upstream projects.
 
 - [fix(stage-ui-live2d): preserve lip sync during MAGIC motion](https://github.com/moeru-ai/airi/pull/2481)
 
-### voicevox_engine
+### VOICEVOX Engine
 
+- [test: 宣言的な入力検証のテストを整理する](https://github.com/VOICEVOX/voicevox_engine/pull/1887)
 - [feat: トーク系APIの数値入力に値域制約を追加する](https://github.com/VOICEVOX/voicevox_engine/pull/1883)
 
 ## Connect
