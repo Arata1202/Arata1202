@@ -49,7 +49,7 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 
 Selected pull requests merged into upstream projects.
 
-### WorkAdventure
+### workadventure
 
 - [Add contributor avatars to the README](https://github.com/workadventure/workadventure/pull/6542)
 - [chore(compose): remove obsolete version declarations](https://github.com/workadventure/workadventure/pull/6451)
@@ -69,7 +69,7 @@ Selected pull requests merged into upstream projects.
 
 - [fix(stage-ui-live2d): preserve lip sync during MAGIC motion](https://github.com/moeru-ai/airi/pull/2481)
 
-### VOICEVOX Engine
+### voicevox_engine
 
 - [test: 宣言的な入力検証のテストを整理する](https://github.com/VOICEVOX/voicevox_engine/pull/1887)
 - [feat: トーク系APIの数値入力に値域制約を追加する](https://github.com/VOICEVOX/voicevox_engine/pull/1883)
