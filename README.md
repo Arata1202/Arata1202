@@ -45,10 +45,13 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 - 🎮 **[MinecraftGeyserServer](https://github.com/Arata1202/MinecraftGeyserServer)**<br>
   AWS infrastructure for a Java and Bedrock cross-play Minecraft server, including Docker-based operation, BlueMap, and automatic shutdown.
 
-## OSS Contributions
+## Open Source Contributions
 
-### workadventure
+Selected pull requests merged into upstream projects.
 
+### WorkAdventure
+
+- [Add contributor avatars to the README](https://github.com/workadventure/workadventure/pull/6542)
 - [chore(compose): remove obsolete version declarations](https://github.com/workadventure/workadventure/pull/6451)
 - [docs(matrix): fix admin user registration example](https://github.com/workadventure/workadventure/pull/6450)
 - [fix(matrix): normalize Matrix API URI](https://github.com/workadventure/workadventure/pull/6449)
