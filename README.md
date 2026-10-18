@@ -34,7 +34,7 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 
 ### Infrastructure & Self-Hosting
 
-- 🗺️ **[WorkAdventure Self-Hosted](https://github.com/Arata1202/workadventure-self-hosted)** · **[Case Study](https://zenn.dev/flierinc/articles/cc3d3450c6ad41)**<br>
+- 🗺️ **[workadventure-self-hosted](https://github.com/Arata1202/workadventure-self-hosted)** · **[Case Study](https://zenn.dev/flierinc/articles/cc3d3450c6ad41)**<br>
   Terraform and Docker automation for deploying and operating WorkAdventure on AWS and Azure with OIDC authentication.
 
 - 🎮 **[MinecraftGeyserServer](https://github.com/Arata1202/MinecraftGeyserServer)**<br>
