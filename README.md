@@ -59,6 +59,11 @@ Selected pull requests merged into upstream projects.
 - [fix(self-hosting): avoid unset map storage auth warning](https://github.com/workadventure/workadventure/pull/6426)
 - [fix(i18n): improve Japanese translation for DO_NOT_DISTURB status label](https://github.com/workadventure/workadventure/pull/5942)
 
+### awesome-workadventure
+
+- [Add workadventure-presence-notifier to Extra-Features](https://github.com/workadventure/awesome-workadventure/pull/11)
+- [Add workadventure-self-hosted to Deployment](https://github.com/workadventure/awesome-workadventure/pull/9)
+
 ### react-email
 
 - [chore(render): document data-skip-in-text](https://github.com/resend/react-email/pull/3659)
