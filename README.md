@@ -27,6 +27,9 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 
 ### Apps
 
+- 📋 **[SwiftRecruitApp](https://github.com/Arata1202/SwiftRecruitApp)** · **[App Store](https://apps.apple.com/jp/app/id6789862900)**<br>
+  A native iOS job-hunting app for organizing companies, selection schedules, and tasks.
+
 - 📱 **[PocketVideo](https://github.com/Arata1202/PocketVideo)** · **[App Store](https://apps.apple.com/jp/app/pocket-video/id6783846586)**<br>
   A native iOS video player for quickly opening and playing videos from the Files app.
 
