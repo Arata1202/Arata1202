@@ -49,7 +49,8 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 
 ### Development Environment
 
-- 🛠️ **[dotfiles](https://github.com/Arata1202/dotfiles)** — My macOS development setup with Homebrew, mise, and Zsh.
+- 🛠️ **[dotfiles](https://github.com/Arata1202/dotfiles)**<br>
+  My macOS development setup with Homebrew, mise, and Zsh.
 
 ## Open Source Contributions
 
