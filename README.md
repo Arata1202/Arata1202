@@ -47,6 +47,8 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 - 🎮 **[MinecraftGeyserServer](https://github.com/Arata1202/MinecraftGeyserServer)**<br>
   AWS infrastructure for a Java and Bedrock cross-play Minecraft server, including Docker-based operation, BlueMap, and automatic shutdown.
 
+- **[dotfiles](https://github.com/Arata1202/dotfiles)** — My macOS development setup with Homebrew, mise, and Zsh.
+
 ## Open Source Contributions
 
 Selected pull requests merged into upstream projects.
