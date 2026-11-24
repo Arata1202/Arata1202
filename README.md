@@ -27,10 +27,10 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 
 ### Apps
 
-- 📋 **[SwiftRecruitApp](https://github.com/Arata1202/SwiftRecruitApp)** · **[App Store](https://apps.apple.com/jp/app/id6789862900)**<br>
+- 💼 **[SwiftRecruitApp](https://github.com/Arata1202/SwiftRecruitApp)** · **[App Store](https://apps.apple.com/jp/app/id6789862900)**<br>
   A native iOS job-hunting app for organizing companies, selection schedules, and tasks.
 
-- 📱 **[PocketVideo](https://github.com/Arata1202/PocketVideo)** · **[App Store](https://apps.apple.com/jp/app/pocket-video/id6783846586)**<br>
+- 🎬 **[PocketVideo](https://github.com/Arata1202/PocketVideo)** · **[App Store](https://apps.apple.com/jp/app/pocket-video/id6783846586)**<br>
   A native iOS video player for quickly opening and playing videos from the Files app.
 
 - 📲 **[FlutterBlogApp](https://github.com/Arata1202/FlutterBlogApp)** · **[App Store](https://apps.apple.com/jp/app/%E3%83%AA%E3%82%A2%E3%83%AB%E5%A4%A7%E5%AD%A6%E7%94%9F-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6590619103)**<br>
@@ -47,7 +47,9 @@ mainly using TypeScript, PHP, Go, Node.js, Flutter, Terraform, Docker, AWS, and 
 - 🎮 **[MinecraftGeyserServer](https://github.com/Arata1202/MinecraftGeyserServer)**<br>
   AWS infrastructure for a Java and Bedrock cross-play Minecraft server, including Docker-based operation, BlueMap, and automatic shutdown.
 
-- **[dotfiles](https://github.com/Arata1202/dotfiles)** — My macOS development setup with Homebrew, mise, and Zsh.
+### Development Environment
+
+- 🛠️ **[dotfiles](https://github.com/Arata1202/dotfiles)** — My macOS development setup with Homebrew, mise, and Zsh.
 
 ## Open Source Contributions
 
